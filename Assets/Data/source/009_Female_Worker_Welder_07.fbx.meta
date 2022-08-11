@@ -1,0 +1,4119 @@
+fileFormatVersion: 2
+guid: e29071a33d5242e45a41f34765f8bf6a
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 11610563-9a31-4324-95ff-7ce99982e01b_69507044_51c14b96_a48b81cb_8cec97d1_e4c69e20_15b43ad4_22697219
+    second: {fileID: 2100000, guid: a165c635674a0a641a9c382ab73d5eba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 210f0c91-0926-45e3-aaa0-b7cfd1a1c571_69507044_51c14b96_a48b81cb_8cec97d1_e4c69e20_15b43ad4_22697219
+    second: {fileID: 2100000, guid: 7de417c61bb11da4895a7af9879fb93a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 218017a3-0ced-476f-8555-b4268093ad5d_69507044_51c14b96_a48b81cb_8cec97d1_e4c69e20_15b43ad4_22697219
+    second: {fileID: 2100000, guid: da8f86d71649aee478abdb033de2e85b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 2afdbe06-b151-4c2c-b308-e7ad2e4e9661_69507044_51c14b96_a48b81cb_8cec97d1_e4c69e20_15b43ad4_22697219
+    second: {fileID: 2100000, guid: 4bf113cdd229cab419895269c3e6f1e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 3224cb9f-34b9-4c7c-9c63-10ff659b9cc4
+    second: {fileID: 2100000, guid: ec9405570bac2ae4898afb535b6e1b9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 3b43b0e1-badc-4eb8-a43f-f5884746ebff
+    second: {fileID: 2100000, guid: 882b1b612c8f8c141973fd265267530d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 51424f00-3dba-464c-8b65-03ca59afb2d6_69507044_51c14b96_a48b81cb_8cec97d1_e4c69e20_15b43ad4_22697219
+    second: {fileID: 2100000, guid: 991eaac97c8f3334ba64a7180ee6de83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5144390c-ff7e-4b04-9a8f-1db1e6e5bd85_69507044_51c14b96_a48b81cb_8cec97d1_e4c69e20_15b43ad4_22697219
+    second: {fileID: 2100000, guid: 3da9871aadf07c347810f6f53a310a89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 52722df2-7f7f-480c-b920-db193664ce58_661d30c5_c151e20c_51c14b96_a48b81cb_8cec97d1_e4c69e20_15b43ad4_22697219
+    second: {fileID: 2100000, guid: 9775f026d0ffdc24e8067c9759da6e6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5c67c147-15b5-4b0a-a47b-a23944d36c9d_661d30c5_c151e20c_51c14b96_a48b81cb_8cec97d1_e4c69e20_15b43ad4_22697219
+    second: {fileID: 2100000, guid: 1c27e99fd0b89fa45b8be0252fd691a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 70c9aa40-d99c-4844-b4cf-021c159e1d70_69507044_51c14b96_a48b81cb_8cec97d1_e4c69e20_15b43ad4_22697219
+    second: {fileID: 2100000, guid: 8d3480305579f974795f560dc4fda5fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7ea58d59-54f7-489a-a70b-33cf602f27a0
+    second: {fileID: 2100000, guid: e1cbffba978a3c0479464e1906b464fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 967__6de33994_c151e20c_51c14b96_3e3ad33f_8cec97d1_e4c69e20_15b43ad4_22697219
+    second: {fileID: 2100000, guid: 5a6ace8f31853b340a49242a989c7e00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 969__6de33994_c151e20c_51c14b96_3e3ad33f_8cec97d1_e4c69e20_15b43ad4_22697219
+    second: {fileID: 2100000, guid: fd67d1521e6810e4aa6999a0f2bc189c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 970__6de33994_c151e20c_51c14b96_3e3ad33f_8cec97d1_e4c69e20_15b43ad4_22697219
+    second: {fileID: 2100000, guid: ac78e4cc6b231bd46b90c3fdd60f5ff7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 98640081-9d44-4758-b16f-6b98a464a37f
+    second: {fileID: 2100000, guid: dfd913db156f6f84e86a46a7bde3521b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 98941c71-b3f3-485b-b679-fe9ed30b8bbf_69507044_51c14b96_a48b81cb_8cec97d1_e4c69e20_15b43ad4_22697219
+    second: {fileID: 2100000, guid: c4d9c6016a2484f49b210cbb4817eaf8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UserDefined_b7308142_c151e20c_51c14b96_a48b81cb_8cec97d1_e4c69e20_15b43ad4_22697219
+    second: {fileID: 2100000, guid: c1a8ca9007abe1e4aa08d94bd5c9cb32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: a18227e3-08db-4af0-a2d7-f22fb58e4212_69507044_51c14b96_a48b81cb_8cec97d1_e4c69e20_15b43ad4_22697219
+    second: {fileID: 2100000, guid: d9d0535fc3ac7534c983108788a4bd47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ac59505b-e80f-4b48-a157-af31293f7470_661d30c5_c151e20c_51c14b96_a48b81cb_8cec97d1_e4c69e20_15b43ad4_22697219
+    second: {fileID: 2100000, guid: 1e07738081527e3499a7f38c97f1b13e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b03f9d8a-52ef-4565-a619-2fb26fd3f325
+    second: {fileID: 2100000, guid: bb38dfe43a59e7c4e957ec8401616534, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b5cdebe8-50a3-4514-868f-068957f084e3_661d30c5_c151e20c_51c14b96_a48b81cb_8cec97d1_e4c69e20_15b43ad4_22697219
+    second: {fileID: 2100000, guid: 0cd4cf70d452f4c4bb8ec609c7567d28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: c2289dc2-2279-4542-861d-65869ba4fd88
+    second: {fileID: 2100000, guid: 3429059bf77a8f2448de3f1f278299be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: c4f7ef15-726f-4f1b-9835-41e2f68e0439_69507044_51c14b96_a48b81cb_8cec97d1_e4c69e20_15b43ad4_22697219
+    second: {fileID: 2100000, guid: bde71993ae7a50c4f9077e629c4ab61e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: c4f8503e-1f4d-4c6f-a0b1-3cb75210de7f
+    second: {fileID: 2100000, guid: 293395fae8299c444b66918a97bc8c70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: none.001Material_cee52a3b_15b43ad4_22697219
+    second: {fileID: 2100000, guid: 07b01dde727b1f049a2721d44545473c, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'LeftUpperLeg' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: '*MODELSPACE'
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 7085dfa13bc676ab4cede56fe9523030_mesh_009_female_worker_welder_07-elvs_mens_apron1
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 22697219549d5036bd209c70b6969b76_mesh_meshes_0
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 22697219549d5036bd209c70b6969b76_mesh_meshes_33
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 22697219549d5036bd209c70b6969b76_mesh_meshes_339
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: 009_Female_Worker_Welder_07(Clone)
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: '*MODELSPACE'
+      parentName: 009_Female_Worker_Welder_07(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 4c50115c-1c0d-47f7-aca3-881148e8fcf5
+      parentName: '*MODELSPACE'
+      position: {x: 0.037652798, y: 0.014149619, z: 0.024536243}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0877632, y: 1.0877632, z: 1.0877632}
+    - name: 7085dfa13bc676ab4cede56fe9523030_mesh_009_female_worker_welder_07-base_obj
+      parentName: 4c50115c-1c0d-47f7-aca3-881148e8fcf5
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.1, y: 0.1, z: 0.1}
+    - name: FbxMesh
+      parentName: 7085dfa13bc676ab4cede56fe9523030_mesh_009_female_worker_welder_07-base_obj
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 7085dfa13bc676ab4cede56fe9523030_mesh_009_female_worker_welder_07-highpolyeyes
+      parentName: 4c50115c-1c0d-47f7-aca3-881148e8fcf5
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.1, y: 0.1, z: 0.1}
+    - name: FbxMesh
+      parentName: 7085dfa13bc676ab4cede56fe9523030_mesh_009_female_worker_welder_07-highpolyeyes
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 7085dfa13bc676ab4cede56fe9523030_mesh_009_female_worker_welder_07-crudegloves
+      parentName: 4c50115c-1c0d-47f7-aca3-881148e8fcf5
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.1, y: 0.1, z: 0.1}
+    - name: FbxMesh
+      parentName: 7085dfa13bc676ab4cede56fe9523030_mesh_009_female_worker_welder_07-crudegloves
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 7085dfa13bc676ab4cede56fe9523030_mesh_009_female_worker_welder_07-elvs_mens_apron1
+      parentName: 4c50115c-1c0d-47f7-aca3-881148e8fcf5
+      position: {x: 0.0028223116, y: -0.0031570739, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.1, y: 0.1, z: 0.1}
+    - name: FbxMesh
+      parentName: 7085dfa13bc676ab4cede56fe9523030_mesh_009_female_worker_welder_07-elvs_mens_apron1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 7085dfa13bc676ab4cede56fe9523030_mesh_009_female_worker_welder_07-riding_helmet
+      parentName: 4c50115c-1c0d-47f7-aca3-881148e8fcf5
+      position: {x: -0, y: 0.00860003, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.1, y: 0.105713, z: 0.1}
+    - name: FbxMesh
+      parentName: 7085dfa13bc676ab4cede56fe9523030_mesh_009_female_worker_welder_07-riding_helmet
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 7085dfa13bc676ab4cede56fe9523030_mesh_009_female_worker_welder_07-mc_scifi_armor_guardian
+      parentName: 4c50115c-1c0d-47f7-aca3-881148e8fcf5
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.1, y: 0.1, z: 0.1}
+    - name: FbxMesh
+      parentName: 7085dfa13bc676ab4cede56fe9523030_mesh_009_female_worker_welder_07-mc_scifi_armor_guardian
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 7085dfa13bc676ab4cede56fe9523030_mesh_009_female_worker_welder_07-mc_bodysuit_2021
+      parentName: 4c50115c-1c0d-47f7-aca3-881148e8fcf5
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.1, y: 0.1, z: 0.1}
+    - name: FbxMesh
+      parentName: 7085dfa13bc676ab4cede56fe9523030_mesh_009_female_worker_welder_07-mc_bodysuit_2021
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      parentName: '*MODELSPACE'
+      position: {x: -0.021543624, y: 0.0014722298, z: 0}
+      rotation: {x: -0, y: 0, z: 0.99843526, w: -0.055920165}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_0
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: -0, y: 0, z: 0.031771272}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 0.91300374}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_0
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_1
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_2
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_3
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_3
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_4
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_4
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_5
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_5
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_6
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_6
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_7
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_7
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_8
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_8
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_9
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_9
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_10
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_10
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_11
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_11
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_12
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_12
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_13
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_13
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_14
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_14
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_15
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_15
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_16
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_16
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_17
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_17
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_18
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_18
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_19
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_19
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_20
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_20
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_21
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_21
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_22
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_22
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_23
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_23
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_24
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_24
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_25
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_25
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_26
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_26
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_27
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_27
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_28
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_28
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_29
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_29
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_30
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_30
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_31
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_31
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_32
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_32
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_33
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_33
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_34
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_34
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_35
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_35
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_36
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_36
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_37
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_37
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_38
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_38
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_39
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_39
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_40
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_40
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_41
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_41
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_42
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_42
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_43
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_43
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_44
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_44
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_45
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_45
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_46
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_46
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_47
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_47
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_48
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_48
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_49
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_49
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_50
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_50
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_51
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_51
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_52
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_52
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_53
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_53
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_54
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_54
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_55
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_55
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_56
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_56
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_57
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_57
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_58
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_58
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_59
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_59
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_60
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_60
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_61
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_61
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_62
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_62
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_63
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_63
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_64
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_64
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_65
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_65
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_66
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_66
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_67
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_67
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_68
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_68
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_69
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_69
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_70
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_70
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_71
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_71
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_72
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_72
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_73
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_73
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_74
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_74
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_75
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_75
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_76
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_76
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_77
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_77
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_78
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_78
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_79
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_79
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_80
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_80
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_81
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_81
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_82
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_82
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_83
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_83
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_84
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_84
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_85
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_85
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_86
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_86
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_87
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_87
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_88
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_88
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_89
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_89
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_90
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_90
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_91
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_91
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_92
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_92
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_93
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_93
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_94
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_94
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_95
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_95
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_96
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_96
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_97
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_97
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_98
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_98
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_99
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_99
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_100
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_100
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_101
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_101
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_102
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_102
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_103
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_103
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_104
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_104
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_105
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_105
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_106
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_106
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_107
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_107
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_108
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_108
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_109
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_109
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_110
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_110
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_111
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_111
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_112
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_112
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_113
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_113
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_114
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_114
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_115
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_115
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_116
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_116
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_117
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_117
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_118
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_118
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_119
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_119
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_120
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_120
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_121
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_121
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_122
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_122
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_123
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_123
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_124
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_124
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_125
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_125
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_126
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_126
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_127
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_127
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_128
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_128
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_129
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_129
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_130
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_130
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_131
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_131
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_132
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_132
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_133
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_133
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_134
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_134
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_135
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_135
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_136
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_136
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_137
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_137
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_138
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_138
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_139
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_139
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_140
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_140
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_141
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_141
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_142
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_142
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_143
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_143
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_144
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_144
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_145
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_145
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_146
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_146
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_147
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_147
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_148
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_148
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_149
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_149
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_150
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_150
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_151
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_151
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_152
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_152
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_153
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_153
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_154
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_154
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_155
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_155
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_156
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_156
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_157
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_157
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_158
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_158
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_159
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_159
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_160
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_160
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_161
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_161
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_162
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_162
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_163
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_163
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_164
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_164
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_165
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_165
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_166
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_166
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_167
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_167
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_168
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_168
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_169
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_169
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_170
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_170
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_171
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_171
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_172
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_172
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_173
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_173
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_174
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_174
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_175
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_175
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_176
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_176
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_177
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_177
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_178
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_178
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_179
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_179
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_180
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_180
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_181
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_181
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_182
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_182
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_183
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_183
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_184
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_184
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_185
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_185
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_186
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_186
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_187
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_187
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_188
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_188
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_189
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_189
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_190
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_190
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_191
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_191
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_192
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_192
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_193
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_193
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_194
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_194
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_195
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_195
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_196
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_196
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_197
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_197
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_198
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_198
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_199
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_199
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_200
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_200
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_201
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_201
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_202
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_202
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_203
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_203
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_204
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_204
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_205
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_205
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_206
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_206
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_207
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_207
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_208
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_208
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_209
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_209
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_210
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_210
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_211
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_211
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_212
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_212
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_213
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_213
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_214
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_214
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_215
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_215
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_216
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_216
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_217
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_217
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_218
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_218
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_219
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_219
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_220
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_220
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_221
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_221
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_222
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_222
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_223
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_223
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_224
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_224
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_225
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_225
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_226
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_226
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_227
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_227
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_228
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_228
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_229
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_229
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_230
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_230
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_231
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_231
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_232
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_232
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_233
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_233
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_234
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_234
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_235
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_235
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_236
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_236
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_237
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_237
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_238
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_238
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_239
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_239
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_240
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_240
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_241
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_241
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_242
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_242
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_243
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_243
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_244
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_244
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_245
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_245
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_246
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_246
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_247
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_247
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_248
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_248
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_249
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_249
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_250
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_250
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_251
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_251
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_252
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_252
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_253
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_253
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_254
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_254
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_255
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_255
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_256
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_256
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_257
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_257
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_258
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_258
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_259
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_259
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_260
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_260
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_261
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_261
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_262
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_262
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_263
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_263
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_264
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_264
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_265
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_265
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_266
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_266
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_267
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_267
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_268
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_268
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_269
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_269
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_270
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_270
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_271
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_271
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_272
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_272
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_273
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_273
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_274
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_274
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_275
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_275
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_276
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_276
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_277
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_277
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_278
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_278
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_279
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_279
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_280
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_280
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_281
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_281
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_282
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_282
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_283
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_283
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_284
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_284
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_285
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_285
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_286
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_286
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_287
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_287
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_288
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_288
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_289
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_289
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_290
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_290
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_291
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_291
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_292
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_292
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_293
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_293
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_294
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_294
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_295
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_295
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_296
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_296
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_297
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_297
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_298
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_298
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_299
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_299
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_300
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_300
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_301
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_301
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_302
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_302
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_303
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: -0.014364481, y: -0.039916545, z: -0.0022670652}
+      rotation: {x: 0, y: 0, z: 1, w: 0.00000004371139}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_303
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_304
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_304
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_305
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_305
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_306
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_306
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_307
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_307
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_308
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_308
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_309
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_309
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_310
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_310
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_311
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_311
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_312
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_312
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_313
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_313
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_314
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_314
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_315
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_315
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_316
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_316
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_317
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_317
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_318
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_318
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_319
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_319
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_320
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_320
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_321
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_321
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_322
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_322
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_323
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_323
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_324
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_324
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_325
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_325
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_326
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_326
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_327
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_327
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_328
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_328
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_329
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_329
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_330
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_330
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_331
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_331
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_332
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_332
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_333
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_333
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_334
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_334
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_335
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_335
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_336
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_336
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_337
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_337
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_338
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_338
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_339
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: -0.014088802, y: -0.039853144, z: 0.03432603}
+      rotation: {x: 0, y: 0, z: 1, w: 0.00000004371139}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_339
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_340
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: -0.01266039, y: 0.48951247, z: 1.340476}
+      rotation: {x: 0.9259857, y: 9.1296824e-17, z: -0.000000043711392, w: -0.3775586}
+      scale: {x: 0.7834244, y: 0.7834244, z: 0.7834244}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_340
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_341
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: -0.01266039, y: 0.48951247, z: 1.340476}
+      rotation: {x: 0.9259857, y: 9.1296824e-17, z: -0.000000043711392, w: -0.3775586}
+      scale: {x: 0.7834244, y: 0.7834244, z: 0.7834244}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_341
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_342
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: -0.01266039, y: 0.48951247, z: 1.340476}
+      rotation: {x: 0.9259857, y: 9.1296824e-17, z: -0.000000043711392, w: -0.3775586}
+      scale: {x: 0.7834244, y: 0.7834244, z: 0.7834244}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_342
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_343
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: -0.01266039, y: 0.48951247, z: 1.340476}
+      rotation: {x: 0.9259857, y: 9.1296824e-17, z: -0.000000043711392, w: -0.3775586}
+      scale: {x: 0.7834244, y: 0.7834244, z: 0.7834244}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_343
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_344
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: -0.08123612, y: -0.010015511, z: -0.08207349}
+      rotation: {x: 0, y: 0, z: 1, w: 0.00000004371139}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_344
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_345
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_345
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_346
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_346
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_347
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_347
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_348
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_348
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_349
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_349
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_350
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_350
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_351
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_351
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_352
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_352
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_353
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_353
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_354
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_354
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_355
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_355
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_356
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_356
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_357
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_357
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_358
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_358
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_359
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_359
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_360
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_360
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_361
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_361
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_362
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_362
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_363
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_363
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_364
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_364
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_365
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_365
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_366
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_366
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_367
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 1.1187984, y: -1.7328986, z: 0.007233936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_367
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_368
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 0.012271366, y: 0.31712916, z: 1.3687546}
+      rotation: {x: -0.06431785, y: 0.05343292, z: 0.99649197, w: -0.003448794}
+      scale: {x: 0.630119, y: 0.630119, z: 0.630119}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_368
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_369
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 0.012271366, y: 0.28567696, z: 1.3721374}
+      rotation: {x: -0.06431785, y: 0.05343292, z: 0.99649197, w: -0.003448794}
+      scale: {x: 0.630119, y: 0.630119, z: 0.630119}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_369
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_370
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 0.012271366, y: 0.28567696, z: 1.3721374}
+      rotation: {x: -0.06431785, y: 0.05343292, z: 0.99649197, w: -0.003448794}
+      scale: {x: 0.630119, y: 0.630119, z: 0.630119}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_370
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_371
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 0.012271366, y: 0.28567696, z: 1.3721374}
+      rotation: {x: -0.06431785, y: 0.05343292, z: 0.99649197, w: -0.003448794}
+      scale: {x: 0.630119, y: 0.630119, z: 0.630119}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_371
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_372
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: 0.012271366, y: 0.31712916, z: 1.3687546}
+      rotation: {x: -0.06431785, y: 0.05343292, z: 0.99649197, w: -0.003448794}
+      scale: {x: 0.630119, y: 0.630119, z: 0.630119}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_372
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 22697219549d5036bd209c70b6969b76_mesh_meshes_373
+      parentName: 141c7bf9-3aa5-40e8-8857-5417952edcfb
+      position: {x: -0.055812977, y: 0.0000000048793254, z: 0.0364309}
+      rotation: {x: 0, y: 0, z: 1, w: 0.00000004371139}
+      scale: {x: 0.10733779, y: 0.10733779, z: 0.10733779}
+    - name: FbxMesh
+      parentName: 22697219549d5036bd209c70b6969b76_mesh_meshes_373
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LightsNode
+      parentName: 009_Female_Worker_Welder_07(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
