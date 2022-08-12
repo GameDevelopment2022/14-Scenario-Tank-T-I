@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 public class loadscene : MonoBehaviour
 {
     public static loadscene instance;
-    public GameObject loading,main;
+    public GameObject loading,main, liftingoperation;
     public int count;
 
     void Start()
@@ -18,6 +18,24 @@ public class loadscene : MonoBehaviour
     {
         loading.SetActive(true);
         main.SetActive(false);
+        Invoke("load", 2.0f);
+        count++;
+    }
+
+
+
+    public void blockvalve()
+    {
+        liftingoperation.SetActive(true);
+        main.SetActive(false);
+       
+    }
+
+
+    public void liftoperationbutton()
+    {
+        loading.SetActive(true);
+        liftingoperation.SetActive(false);
         Invoke("load", 2.0f);
         count++;
     }
@@ -35,6 +53,10 @@ public class loadscene : MonoBehaviour
         SceneManager.LoadScene(1);
     }
 
+    public void loadscene3()
+    {
+        SceneManager.LoadScene(3);
+    }
 
 
     public void Update()
