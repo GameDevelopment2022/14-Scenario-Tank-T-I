@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 0.886
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.74769485, g: 0.72526276, b: 0.7079843, a: 0.886}
+  m_IndirectSpecularColor: {r: 0.74772877, g: 0.7253166, b: 0.7080428, a: 0.886}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &4
 LightmapSettings:
@@ -19925,7 +19925,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1850048490}
         m_TargetAssemblyTypeName: loadscene, Assembly-CSharp
-        m_MethodName: onclickpipeisolation
+        m_MethodName: liftoperationbutton
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -32399,11 +32399,11 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'Remove block valve & Install Blind
 
-    
 
-    
 
-    
+
+
+
 
 '
   m_isRightToLeft: 0

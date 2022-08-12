@@ -36,7 +36,7 @@ public class loadscene : MonoBehaviour
     {
         loading.SetActive(true);
         liftingoperation.SetActive(false);
-        Invoke("load", 2.0f);
+        Invoke("loadscene3", 2.0f);
         count++;
     }
 
