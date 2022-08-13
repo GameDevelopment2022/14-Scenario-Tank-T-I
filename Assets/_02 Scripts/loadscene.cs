@@ -37,7 +37,15 @@ public class loadscene : MonoBehaviour
         loading.SetActive(true);
         liftingoperation.SetActive(false);
         Invoke("loadscene3", 2.0f);
-        count++;
+       // count++;
+    }
+
+    public void heavyequipment()
+    {
+        loading.SetActive(true);
+        liftingoperation.SetActive(false);
+        Invoke("loadscene4", 2.0f);
+       //count++;
     }
 
     // Update is called once per frame
@@ -57,7 +65,10 @@ public class loadscene : MonoBehaviour
     {
         SceneManager.LoadScene(3);
     }
-
+    public void loadscene4()
+    {
+        SceneManager.LoadScene(8);
+    }
 
     public void Update()
     {
