@@ -43,11 +43,26 @@ public class loadscene : MonoBehaviour
     public void heavyequipment()
     {
         loading.SetActive(true);
-        liftingoperation.SetActive(false);
+       // liftingoperation.SetActive(false);
         Invoke("loadscene4", 2.0f);
        //count++;
     }
 
+    public void heavyequipment2()
+    {
+        loading.SetActive(true);
+      //  liftingoperation.SetActive(false);
+        Invoke("loadscene5", 2.0f);
+        //count++;
+    }
+
+    public void heavyequipment3()
+    {
+        loading.SetActive(true);
+        //  liftingoperation.SetActive(false);
+        Invoke("loadscene6", 2.0f);
+        //count++;
+    }
     // Update is called once per frame
 
 
@@ -70,6 +85,14 @@ public class loadscene : MonoBehaviour
         SceneManager.LoadScene(8);
     }
 
+    public void loadscene5()
+    {
+        SceneManager.LoadScene(9);
+    }
+    public void loadscene6()
+    {
+        SceneManager.LoadScene(10);
+    }
     public void Update()
     {
         if(Input.GetKeyDown(KeyCode.Escape))
